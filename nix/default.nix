@@ -42,7 +42,6 @@
   doom_one = ./doom_one.nix;
   flat_remix = ./flat_remix.nix;
   gruvbox_material = ./gruvbox_material.nix;
-  dracula = ./dracula.nix;
   nightowl = ./nightowl.nix;
   oxide = ./oxide.nix;
 }

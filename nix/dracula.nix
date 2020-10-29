@@ -11,6 +11,6 @@
     blue = "0xbd93f9";
     magenta = "0xff79c6";
     cyan = "0x8be9fd";
-    white = "0xbfbfbf";
+    white = "0xbbbbbb";
   };
 }
