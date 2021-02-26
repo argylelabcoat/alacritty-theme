@@ -1,0 +1,10 @@
+alacritty-colorscheme==1.0.0
+greenlet==1.0.0
+msgpack==1.0.2
+mypy-extensions==0.4.3
+pynvim==0.4.3
+ruamel.yaml==0.16.12
+ruamel.yaml.clib==0.2.2
+typed-argument-parser==1.6.1
+typing-extensions==3.7.4.3
+typing-inspect==0.6.0
