@@ -1,10 +1,9 @@
 # Alacritty Theme
 
-[![GitHub tag](https://img.shields.io/github/tag/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/tags)
-
-[![Contributors](https://img.shields.io/github/contributors/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/graphs/contributors)
-[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eendroroy/alacritty-theme/master.svg)](https://github.com/eendroroy/alacritty-theme)
 [![license](https://img.shields.io/github/license/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/blob/master/LICENSE)
+[![GitHub tag](https://img.shields.io/github/tag/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/tags)
+[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eendroroy/alacritty-theme/master.svg)](https://github.com/eendroroy/alacritty-theme)
+
 [![GitHub issues](https://img.shields.io/github/issues/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/issues)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/pulls)
@@ -37,6 +36,7 @@ Or use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorsch
 |**_Cobalt2_**<br>[source](https://github.com/wesbos/cobalt2/tree/master/Cobalt2)|![Cobalt2](images/Cobalt2.png)|
 |**_cyber_punk_neon_**<br>[source](https://github.com/Roboron3042/Cyberpunk-Neon)|![cyber_punk_neon](images/cyber_punk_neon.png)|
 |**_darcula_**<br>[source](https://draculatheme.com)|![darcula](images/darcula.png)|
+|**_dark_pastels_**<br>[source](https://invent.kde.org/utilities/konsole/-/blob/master/data/color-schemes/DarkPastels.colorscheme)|![darcula](images/dark_pastels.png)|
 |**_doom_one_**<br>[source](https://github.com/hlissner/emacs-doom-themes)|![doom_one](images/doom_one.png)|
 |**_dracula_**<br>[source](https://draculatheme.com)|![dracula](images/dracula.png)|
 |**_falcon_**|![falcon](images/falcon.png)|
@@ -53,10 +53,14 @@ Or use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorsch
 |**_material_theme_**<br>[source](https://github.com/equinusocio/material-theme)|![material_theme](images/material_theme.png)|
 |**_material_theme_mod_**|![material_theme](images/material_theme_mod.png)|
 |**_nord_**<br>[source](https://github.com/arcticicestudio/nord)|![nord](images/nord.png)|
+|**_oceanic_next_**<br>[source](https://github.com/voronianski/oceanic-next-color-scheme)|![oceanic_next](images/oceanic_next.png)|
+|**_omni_**<br>[source](https://github.com/Mdsp9070/alacritty-omni)|![omni](images/omni.png)|
 |**_one_dark_**|![one_dark](images/one_dark.png)|
+|**_palenight_**<br>[source](https://github.com/JonathanSpeek/palenight-iterm2)|![palenight](images/palenight.png)|
 |**_papercolor_light_**<br>[source](https://github.com/NLKNguyen/papercolor-theme/blob/master/colors/PaperColor.vim#L36)|![papercolor_light](images/papercolor_light.png)|
 |**_pencil_dark_**<br>[source](https://github.com/mattly/iterm-colors-pencil)|![pencil_dark](images/pencil_dark.png)|
 |**_pencil_light_**<br>[source](https://github.com/mattly/iterm-colors-pencil)|![pencil_light](images/pencil_light.png)|
+|**_remedy_dark_**<br>[source](https://github.com/robertrossmann/vscode-remedy)|![remedy_dark](images/remedy_dark.png)|
 |**_snazzy_**<br>[source](https://github.com/sindresorhus/hyper-snazzy)|![snazzy](images/snazzy.png)|
 |**_solarized_dark_**<br>[source](http://ethanschoonover.com/solarized)|![solarized_dark](images/solarized_dark.png)|
 |**_solarized_light_**<br>[source](http://ethanschoonover.com/solarized)|![solarized_light](images/solarized_light.png)|
@@ -65,6 +69,8 @@ Or use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorsch
 |**_tender_**<br>[source](https://github.com/huyvohcmc/tender-alacritty)|![tender](images/tender.png)|
 |**_terminal_app_**|![terminal_app](images/terminal_app.png)|
 |**_thelovelace_**|![terminal_app](images/thelovelace.png)|
+|**_tokyo-night_**<br>[source](https://github.com/zatchheems/tokyo-night-alacritty-theme)|![tokyo-night](images/tokyo-night.png)|
+|**_tokyo-night-storm_**<br>[source](https://github.com/zatchheems/tokyo-night-alacritty-theme)|![tokyo-night-storm](images/tokyo-night-storm.png)|
 |**_tomorrow_night_**<br>[source](https://github.com/ChrisKempson/Tomorrow-Theme)|![tomorrow_night](images/tomorrow_night.png)|
 |**_tomorrow_night_bright_**<br>[source](https://github.com/ChrisKempson/Tomorrow-Theme)|![tomorrow_night_bright](images/tomorrow_night_bright.png)|
 |**_wombat_**<br>[source](https://github.com/djoyner/iTerm2-wombat)|![wombat](images/wombat.png)|
